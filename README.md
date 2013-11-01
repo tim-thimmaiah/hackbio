@@ -1,4 +1,4 @@
 hackbio
 =======
 
-HackerNews for Biologu
+HackerNews for Biology
